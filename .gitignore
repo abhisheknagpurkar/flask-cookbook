@@ -1,1 +1,6 @@
 flksenv/
+__pycache__
+secret.txt
+app_home.egg-info/
+build/
+dist/
