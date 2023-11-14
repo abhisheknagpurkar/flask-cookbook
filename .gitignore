@@ -4,3 +4,4 @@ secret.txt
 app_home.egg-info/
 build/
 dist/
+env/
